@@ -15,3 +15,8 @@ On the todo list...
 - Random Forests
 - K-Means
 - Neural Networks
+
+View online...
+- http://nbviewer.ipython.org/urls/raw.github.com/tmsquasher/data-science-notebooks/master/Kernel%2520Density%2520Estimation.ipynb
+- http://nbviewer.ipython.org/urls/raw.github.com/tmsquasher/data-science-notebooks/master/Naive%20Bayes.ipynb
+- http://nbviewer.ipython.org/urls/raw.github.com/tmsquasher/data-science-notebooks/master/SVM%20Character%20Recognition.ipynb
